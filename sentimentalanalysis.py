@@ -1,4 +1,4 @@
-mport tweepy
+import tweepy
 import csv
 from textblob import TextBlob
 
